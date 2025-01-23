@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Adem Saracli
-- 👨‍🎓 I develop programs in C# language, create databases in Mssql and do analysis.
-- 🧠 I continue my education. 👣
+- 👋 Hello, I'm @Adem Saracli
+
+- 👨‍🎓 I'm an Independent Software Developer.
+
+-🧠 I'm taking trainings in databases, C# and cybersecurity
 
 
 <!---
