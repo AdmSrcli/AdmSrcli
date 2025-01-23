@@ -2,7 +2,7 @@
 
 - 👨‍🎓 I'm an Independent Software Developer.
 
--🧠 I'm taking trainings in databases, C# and cybersecurity
+- 🧠 I'm taking trainings in databases, C# and cybersecurity.
 
 
 <!---
